@@ -56,4 +56,3 @@ A static helper class that validates user inputs:
 - Invalid inputs are gracefully handled, and users are given opportunities to re-enter correct values.
 
 ---
-
